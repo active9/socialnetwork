@@ -1,5 +1,5 @@
 #Social Network
-![enter image description here](https://raw.githubusercontent.com/active9/socialnetwork/master/socialnetwork.png)
+![enter image description here](https://raw.githubusercontent.com/active9/socialnetwork/master/public/socialnetwork.png)
 
 Network Socially.
 
