@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Network Socially",
   "main": "index.js",
+  "bin": {
+    "socialnetwork": "./bin/socialnetwork"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +23,14 @@
     "network"
   ],
   "author": "Active 9 LLC",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/active9/socialnetwork"
+  },
+  "bugs": {
+    "url": "https://github.com/active9/socialnetwork/issues"
+  },
+  "homepage": "https://github.com/active9/socialnetwork"
 }
