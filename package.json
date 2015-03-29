@@ -1,0 +1,24 @@
+{
+  "name": "socialnetwork",
+  "version": "0.0.1",
+  "description": "Network Socially",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*",
+    "waterline": "*",
+    "sails-disk": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "lodash": "*"
+  },
+  "keywords": [
+    "social",
+    "network"
+  ],
+  "author": "Active 9 LLC",
+  "license": "MIT"
+}
