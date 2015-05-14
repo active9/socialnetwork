@@ -1,5 +1,5 @@
 #Social Network
-![enter image description here](https://raw.githubusercontent.com/active9/socialnetwork/master/public/socialnetwork.png)
+![Social Network](https://raw.githubusercontent.com/active9/socialnetwork/master/public/socialnetwork.png)
 
 Network Socially.
 
@@ -7,6 +7,8 @@ Network Socially.
  - Real-Time Interaction
  - @ Based Naming
  - Socket.IO / Express Backend
+ - Store post history
+ - HashTag Searching
 
 ###INSTALLING
 Using Git:
@@ -41,12 +43,10 @@ Social Network is a prototype concept to intertwine the ideas of Social Networki
 ###TODO
 
 - Integrate the users Model into the system
-- Store post history
 - Integrate social login methods
 - Create A Registration / Login
 - Friends & Followers
 - Following
-- HashTag Searching
 - HashTag Channels For Posting
 - @username Direct Posting
 - An Administration Panel

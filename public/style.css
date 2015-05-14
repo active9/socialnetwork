@@ -43,6 +43,13 @@ ul {
   height:100%;
 }
 
+.row {
+  width:100%;
+  min-width:100%;
+  margin:auto;
+  text-align:center;
+}
+
 .nav {
   padding:0px;
   margin:0px;
@@ -63,6 +70,33 @@ ul {
   height:40px;
   font-size:100%;
   float:left;
+}
+
+#sn {
+  position:absolute;
+  top:0px;
+  left:10px;
+  text-decoration:none;
+  padding:0px;
+  margin:0px 0px 0px 0px;
+  font-weight:bold;
+  font-size:34px;
+  font-family: sans-serif, calibri, verdana;
+}
+
+.sn_logo_lg {
+  width:100%;
+  max-width:512px;
+  margin:auto;
+  text-align:center;
+}
+
+#sn img {
+  position:absolute;
+  top:12px;
+  left:22px;
+  width:23px;
+  height:23px;
 }
 
 .right {
@@ -100,6 +134,12 @@ ul {
   padding-top:40px;
 }
 
+.form {
+  background:#000;
+  border-radius:15px;
+  min-height:180px;
+}
+
 .login.page .form {
   height: 100px;
   margin-top: -100px;
@@ -118,6 +158,7 @@ ul {
   padding-bottom: 15px;
   text-align: center;
   width: 400px;
+  max-width: 100%;
 }
 
 .login.page .title {
@@ -148,6 +189,10 @@ ul {
 
 .inputMessage {
   font-size: 100%;
+  max-width: 100%;
+  background: #333;
+  border: 1px solid #222;
+  color:#fff;
 }
 
 .log {
